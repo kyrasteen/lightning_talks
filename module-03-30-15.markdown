@@ -60,8 +60,8 @@
 **Week of 5/4**
 
 * Markus Olsen: 
-* Miriam Moser: Fun with Paper.js
-* Kyra Weber: 
+* Miriam Moser: 
+* Kyra Weber: Creative Control vs Usability 
 * Minnie Lee: 
 * Tess Griffin: 
 * Mihir Parikh: 
